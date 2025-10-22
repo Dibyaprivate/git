@@ -139,4 +139,5 @@ variable "region" {
 variable "ami_id" {
   description = "AMI ID for EC2 instances"
   default     = "ami-0c94855ba95c71c99" # Amazon Linux 2 (update as needed)
-}
+} 
+# my name is laxmman
